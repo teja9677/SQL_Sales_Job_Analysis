@@ -1,4 +1,4 @@
-# Intermediate SQL - Sales Analysis
+# SQL - Sales Analysis
 
 ## Overview
 A complete SQL-driven exploration of customer behavior, revenue patterns, and long-term retention for an e-commerce business.

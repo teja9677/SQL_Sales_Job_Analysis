@@ -1,7 +1,8 @@
 # Intermediate SQL - Sales Analysis
 
 ## Overview
-Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
+A complete SQL-driven exploration of customer behavior, revenue patterns, and long-term retention for an e-commerce business.
+This project demonstrates how I use intermediate–advanced SQL to uncover insights that directly support growth, retention, and revenue-generation strategies.
 
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers?

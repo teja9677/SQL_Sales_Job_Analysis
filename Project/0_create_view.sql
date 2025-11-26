@@ -23,7 +23,9 @@ SELECT
     countryfull,
     age,
 
-    
+
+
+
     CONCAT(TRIM(givenname), ' ', TRIM(surname)) AS cleaned_name,
     MIN(orderdate) OVER (PARTITION BY customerkey) AS first_purchase_date,
     EXTRACT(YEAR FROM MIN(orderdate) OVER (PARTITION BY customerkey)) AS cohort_year
